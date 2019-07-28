@@ -1,0 +1,26 @@
+npm i bootstrap jquery --save
+https://www.npmjs.com/package/bootstrap
+
+npm i angular-imask --save
+https://www.npmjs.com/package/angular-imask
+
+npm i currency-formatter --save
+https://www.npmjs.com/package/currency-formatter
+
+npm install moment --save
+https://momentjs.com
+
+npm install toastr --save
+https://www.npmjs.com/package/toastr
+
+npm install primeng --save
+npm install primeicons --save
+https://www.primefaces.org/primeng/#/setup
+
+npm install chart.js --save
+https://www.primefaces.org/primeng/#/chart
+
+npm i --save angular-in-memory-web-api
+https://github.com/angular/in-memory-web-api
+
+https://github.com/angular/in-memory-web-api
